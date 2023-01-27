@@ -1,3 +1,14 @@
 # Frontend Mentor - QR code component
 
-![](colocar imagen)
+![](https://i.ibb.co/R7mg0Tt/image.png)
+
+The second challenge by Catherine
+
+
+# tools and techniques
+
+    HTML
+    CSS
+    GIT
+
+
