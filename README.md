@@ -2,7 +2,7 @@
 
 ![](https://i.ibb.co/R7mg0Tt/image.png)
 
-The second challenge by Catherine
+The second challenge by Catherine V
 
 
 # tools and techniques
