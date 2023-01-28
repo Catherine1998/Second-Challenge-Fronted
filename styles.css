@@ -48,9 +48,9 @@ h1 {
 }
 
 .information-content p {
-  font-weight: 400;
+  margin: 1em;
   text-align: center;
-  font-size: 1.1em;
+  font-size: 0.9375rem;
   color: var(--GrayishBlue);
 }
 
